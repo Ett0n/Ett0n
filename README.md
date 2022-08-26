@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ett0n
-- 👀 I’m interested in front end development and UX/UI design.
-- 🌱 I’m currently learning HTML, SASS and JavaScript.
+- 👀 I’m an UX/UI designer learning front end development.
+- 🌱 I’m currently learning TypeScript, Vue and Vite.
+- 🔗 My playground: [https://mathieunotte.me/](https://mathieunotte.me/)
 
 <!---
 Ett0n/Ett0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
